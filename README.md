@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fheldxyz
-- 👀 I’m interested in Lisp, Swift, Linux Phones, ..
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in learning new tools, languages and skills
+- 🌱 I’m currently looking for a position in software development
 - 📫 Reach me: myusername at gmail
 
 <!---
